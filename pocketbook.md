@@ -1,4 +1,5 @@
-# The Pocketbook is where ideas go to be remembered
+# The Pocketbook is where things go to be remembered
+Ideas that have yet to be realized or articles not-yet written. The pocketbook preserves them in memory so they can be later recalled.
 
 ## Morals of Digitizing Board Games
 
