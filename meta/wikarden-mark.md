@@ -6,10 +6,10 @@ This markup language is inspired by the {!Oscean Markup}, {!GemText}, and of cou
 [GemText]: https://gemini.circumlunar.space/docs/cheatsheet.gmi
 [Markdown]: https://commonmark.org/
 
-# Title
-## subtitle
-### section
-#### subsection
+# # Title
+## ## subtitle
+### ### section
+#### #### subsection
 
 How many heading levels do you really need? I guess I decided it was four.
 
@@ -22,9 +22,22 @@ If you break twice, like I just did, you get a new paragraph. This is, again, re
 
 ### *Inline Elements*
 
-Here is some **bold** and *italic* text. We're doing inline block elements? Show me an `inline code block` and maybe even an internal link, in this case circular because it's going back to the {meta}. Absolute links will be displayed differently. If I link to the homepage, like this: {{https://nyble.dev}}, it should get square brackets. If I, for some reason, want to name that link, I *MUST* use a reference link. Reference links in this markdown-but-not language require a bang after the opening brace. I could use them to, for example, link to {!Myself on Twitter}. Currently you cannot rename internal links.
+Interlinks
+{meta}
+`{meta}`
 
-[Myself on Twitter]: https://twitter.com/gennyble
+Reference Links
+{!the homepage}
+`{!the homepage}`
+`[the homepage]: https://nyble.dev`
+
+[the homepage]: https://nyble.dev
+
+Absolute Links
+{{https://nyble.dev}}
+`{{https://nyble.dev}}`
+
+You can name any kind of link- so that the text differs from what is displayed, like a reference link- with a pipe `|`. If I wanted to link you back to the {meta} but I wanted to proper-noun it and everything, I might do {The Meta | meta}. In the source that's `{The Meta | meta}`.
 
 *Italic and also a bit of **bold** thrown in there. Without ending the italic, can we do **another bold?***
 
