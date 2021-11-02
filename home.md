@@ -1,9 +1,11 @@
 # Digital Garden
 
-A digital garden is a personal wiki, a home for your thoughts on the open web. It's an imperfect, experimental collection of notes, articles, and essays woven together into a net of knowledge and experience. You can read more about what a digital garden is {!here | garden-history}.
+A personal wiki. A home for my thoughts on the open web. It's an imperfect, experimental collection of notes, articles, and essays woven together into a net of knowledge and experience. You can read more about the concept of digital gardening {!here | garden-history}.
 
 [garden-history]: https://maggieappleton.com/garden-history
 
-*The garden is still being designed and built, so there is not much here yet. Inspiration is being taken from the {!XXIIVV wiki} for the style of this plot, but the backend is likely to be something entirely new. Read about the infrastructure behind this garden in the {meta}. Consider links to things contained in the garden to be ephemeral. Prefer to quote directly of paraphrase rather than linking. You could also link someone {home} and give them rough directions. Encourage exploration.*
+*The garden is still being designed and built- there is a lot {todo}- so there is not much here yet. The design and structure of this plot is a copy of the {!XXIIVV wiki} which I really do adore. I hope the design will diverge as this little place ages. You can read more about here, {here | meta}.*
 
 [XXIIVV wiki]: https://wiki.xxiivv.com/site/home.html
+
+Consider links to things in the garden to be ephemeral. Prefer to paraphrase (or quote directly) and link to {the garden's root | home}. Maybe provide some directions. Either way: encourage exploration.
