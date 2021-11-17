@@ -4,7 +4,7 @@ A personal wiki. A home for my thoughts on the open web. It's an imperfect, expe
 
 [garden-history]: https://maggieappleton.com/garden-history
 
-*The garden is still being designed and built- there is a lot {todo}- so there is not much here yet. The design and structure of this plot is a copy of the {!XXIIVV wiki} which I really do adore. I hope the design will diverge as this little place ages. You can read more about here, {here | meta}.*
+*The garden is still being designed and built- there is a lot {todo}- so there is not much here yet. The design and structure of this plot has taken heavy inspiration from {!XXIIVV wiki} which is a place I really do adore. You can read more about here, {here | meta}.*
 
 [XXIIVV wiki]: https://wiki.xxiivv.com/site/home.html
 

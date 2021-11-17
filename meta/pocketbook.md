@@ -13,6 +13,13 @@ You're playing chess with a friend. One of you thinks it could add a bit of spic
 #### Modify the board at any point
 Let players start how they want. All pawns knights or only pawns and a king.
 
+---
+
+## A 2D Spatial Image Sorter
+I take a lot of photos and I have trouble sorting through them. So what if I could open my camera's SD card in a a little 2D plane and sort, using a graphics tablet for input (or a mouse, I suppose) literal small photos (like Polaroids, thumbnails) into cute little boxes. I can use the idea below for naming directories and creating new tags for photos. Oh, right, I want a tagging system, too.
+
+---
+
 ## Inputting Text With a Graphics Tablet
 Instead of a clunky on-screen keyboard where you have to "peck" the letters in, what if you could just write them? Not OCR, that is hard and wasteful and doesn't work all that great. 
 
@@ -27,3 +34,9 @@ I've yet to learn this lovely language, but I do seem to remember that it has le
 
 #### Stenography
 Not to be confused with Steganography. It would certainly result in faster input of words. We can keep the current input in a space above the drawing input and let the user lowercase/uppercase or make edits as they wish. They should all have this, actually.
+
+---
+
+## Gif Sequencer
+My D3200 can capture images in a sequence at around 4-5 fps and sometimes I get some very pleasing pictures that I'd very much like to make into an animated gif. So, the idea:
+A Rust program that uses gifed and the algorithm in colorsquash to quantize the image and then make the gif. It should be a very simple interface. You can crop the image to known values or some random free-form thing. Another rectangle selection will be used to pick the area the colors are taken from; a kind of subject indication. Use all the colors for the subject, and a few for the background. Maybe allow indicating what colors you want for the background, too?
