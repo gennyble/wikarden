@@ -1,4 +1,4 @@
-# Digital Garden
+# Welcome to the Wikarden
 
 A personal wiki. A home for my thoughts on the open web. It's an imperfect, experimental collection of notes, articles, and essays woven together into a net of knowledge and experience. You can read more about the concept of digital gardening {!here | garden-history}.
 
