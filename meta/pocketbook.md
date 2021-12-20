@@ -1,42 +1,20 @@
 # The Pocketbook is where things go to be remembered
-Ideas that have yet to be realized or articles not-yet written. The pocketbook preserves them in memory so they can be later recalled.
-
-## Morals of Digitizing Board Games
-A set of guiding principles that I think one should follow when bringing games into the digital world, from the real. They are rooted in one core belief: You should not limit what players can do. Digitizing the game should be extensive, making the game wider, not restrictive. Everything that was possible should still be possible, and maybe even more.
-
-#### The Rules should have a switch
-You should be able to turn off the rules. Whether that's a global don't-police-me switch, or a more granular control.
-
-Take this scenario:
-You're playing chess with a friend. One of you thinks it could add a bit of spice if you make the knight move 2 and 2 instead of 2 and 1. The other one thinks "yeah, that sounds pretty cool" so you setup the game. You go into the rules and switch off knight policing or, better yet, you tell the computer that "Hey, these are the knights allowed moves".
-
-#### Modify the board at any point
-Let players start how they want. All pawns knights or only pawns and a king.
-
----
+Ideas that have yet to be realized or articles not-yet written. The pocketbook preserves them in memory so they can be later recalled. If an idea feels large or otherwise to-me-significant it likely has a page of its own.
 
 ## A 2D Spatial Image Sorter
 I take a lot of photos and I have trouble sorting through them. So what if I could open my camera's SD card in a a little 2D plane and sort, using a graphics tablet for input (or a mouse, I suppose) literal small photos (like Polaroids, thumbnails) into cute little boxes. I can use the idea below for naming directories and creating new tags for photos. Oh, right, I want a tagging system, too.
 
 ---
 
-## Inputting Text With a Graphics Tablet
-Instead of a clunky on-screen keyboard where you have to "peck" the letters in, what if you could just write them? Not OCR, that is hard and wasteful and doesn't work all that great. 
-
-### The Surface
-A 5x5 grid where you write. If you cross a cell with your pen, it's considered to be a part of the pattern. You draw here and not in Latin letters. It's a new writing system meant specific for interacting with your computer.
-
-#### English
-At first it can have a few patterns for letters. A way to detect errors? H(o|u)ffman? You can set patterns? How? A percentage of the cell hit, maybe? Detecting user-defined patterns would be harder than programmed ones, I imagine, but maybe not? Why would it be?
-
-#### Toki Pona
-I've yet to learn this lovely language, but I do seem to remember that it has less symbols than english. This is a good thing indeed. I think it's fit for this task.
-
-#### Stenography
-Not to be confused with Steganography. It would certainly result in faster input of words. We can keep the current input in a space above the drawing input and let the user lowercase/uppercase or make edits as they wish. They should all have this, actually.
-
----
-
 ## Gif Sequencer
 My D3200 can capture images in a sequence at around 4-5 fps and sometimes I get some very pleasing pictures that I'd very much like to make into an animated gif. So, the idea:
 A Rust program that uses gifed and the algorithm in colorsquash to quantize the image and then make the gif. It should be a very simple interface. You can crop the image to known values or some random free-form thing. Another rectangle selection will be used to pick the area the colors are taken from; a kind of subject indication. Use all the colors for the subject, and a few for the background. Maybe allow indicating what colors you want for the background, too?
+
+---
+
+## Flipnote
+A lo-fi raster editor and animator designed to mimic the DSiWare Flipnote Studio.
+
+I wrote here once "could also have an online service similar to Hatena but it seems I was beat to it (unsurprising!) by {!Sudomemo}! Figure out how Flipnote Studio talks to Flipnote Hatena and maybe we can directly integrate with them!
+
+[Sudomemo]: https://www.sudomemo.net/
