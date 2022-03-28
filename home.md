@@ -9,3 +9,11 @@ A personal wiki. A home for my thoughts on the open web. It's an imperfect, expe
 [XXIIVV wiki]: https://wiki.xxiivv.com/site/home.html
 
 Consider links to things in the garden to be ephemeral. Prefer to paraphrase (or quote directly) and link to {the garden's root | home}. Maybe provide some directions. Either way: encourage exploration.
+
+### Recent Activity
+This is currently updated manually. I'd like to get it automatic one day, but my software is currently broken :D
+
+01g01 Log {01F}
+01g01 Created {doings} for tracking projects
+01f11 Finally wrote down {existing cube}
+01f11 Added "Conversion Clipboard" to {pocketbook}

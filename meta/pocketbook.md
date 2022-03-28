@@ -18,3 +18,10 @@ A lo-fi raster editor and animator designed to mimic the DSiWare Flipnote Studio
 I wrote here once "could also have an online service similar to Hatena but it seems I was beat to it (unsurprising!) by {!Sudomemo}! Figure out how Flipnote Studio talks to Flipnote Hatena and maybe we can directly integrate with them!
 
 [Sudomemo]: https://www.sudomemo.net/
+
+---
+
+## Conversion Clipboard
+A dear friend told me they convert heic files to a format that most other computers can read by taking a screenshot of the image in OSX's image viewer. This disturbed me.
+
+A clipboard that reads the mime type and, upon some key combination (configurable, default to a variation fo ctrl+v), opens a menu that allows you to choose how to paste it. Whether that's as it is or converting an image to png/jpep/webp or an audio file to mp3/wav.

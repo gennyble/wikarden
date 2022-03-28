@@ -12,6 +12,3 @@ A list of things I'd like to do. This list is kept in the garden so I can link b
 
 ### Writings
 - Most of {image processing} left
-- Expand {software}
-- The SMTP overview (probably software/protocols/smtp)
-- {gif}. You left off having not finished the packed fields on the logical screen descriptor. The structure of the LSD is currently kind of messy-and-long; it might be hard to parse information out of that. How can I improve?

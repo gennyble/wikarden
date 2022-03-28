@@ -1,4 +1,4 @@
-# Wikarden-Mark
+# Quark
 
 This markup language is inspired by the {!Oscean Markup}, {!GemText}, and of course {!Markdown}.
 
