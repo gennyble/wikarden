@@ -1,6 +1,6 @@
 # Quark
 
-This markup language is inspired by the {!Oscean Markup}, {!GemText}, and of course {!Markdown}.
+This markup language is inspired by the [!Oscean Markup], [!GemText], and of course [!Markdown].
 
 [Oscean Markup]: https://wiki.xxiivv.com/site/meta.html
 [GemText]: https://gemini.circumlunar.space/docs/cheatsheet.gmi
@@ -27,15 +27,15 @@ Interlinks
 `{meta}`
 
 Reference Links
-{!the homepage}
-`{!the homepage}`
+[!the homepage]
+`[!the homepage]`
 `[the homepage]: https://nyble.dev`
 
 [the homepage]: https://nyble.dev
 
 Absolute Links
-{{https://nyble.dev}}
-`{{https://nyble.dev}}`
+[https://nyble.dev]
+`[https://nyble.dev]`
 
 You can name any kind of link- so that the text differs from what is displayed, like a reference link- with a pipe `|`. If I wanted to link you back to the {meta} but I wanted to proper-noun it and everything, I might do {The Meta | meta}. In the source that's `{The Meta | meta}`.
 
@@ -65,10 +65,10 @@ line breaks
 ### Images
 Alt-text is first class and required to get your image to be one and not just a link. You link an image like anything else, by using any kind of link, but it will only become some kind of `<img>`- to use HTML as an example- if you write alt for it. The syntax for which is to put, on the line directly below it, a paragraph leading with a carrot. You may pad it away from the carrot with a space; whitespace is trimmed. Here's an example:
 
-{not_really_an_image_link}
+[not_really_an_image_link]
 ^ An image that does not exist. The link is invalid and therefore nothing is shown
 
-{!Figure 1}
+[!Figure 1]
 ^ Again, not a valid image.
 
 [Figure 1]: not_really_an_image_link

@@ -15,7 +15,7 @@ A Rust program that uses gifed and the algorithm in colorsquash to quantize the 
 ## Flipnote
 A lo-fi raster editor and animator designed to mimic the DSiWare Flipnote Studio.
 
-I wrote here once "could also have an online service similar to Hatena but it seems I was beat to it (unsurprising!) by {!Sudomemo}! Figure out how Flipnote Studio talks to Flipnote Hatena and maybe we can directly integrate with them!
+I wrote here once "could also have an online service similar to Hatena but it seems I was beat to it (unsurprising!) by [!Sudomemo]! Figure out how Flipnote Studio talks to Flipnote Hatena and maybe we can directly integrate with them!
 
 [Sudomemo]: https://www.sudomemo.net/
 
